@@ -10,3 +10,4 @@ names(censo)
 censo[c(9,1)]
 min(censo$Altura.cm)
 max(censo$Altura.cm)
+2^5
